@@ -7,6 +7,24 @@
 - **修課時間** : 2023年02月~2023年06月
 - **最終成績** : 87
 
+## 成果展示(Screenshots)
+<table table-layout="fixed" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/shorts/ejkAIsAO7JI" target="_blank">
+        <img src="https://img.youtube.com/vi/ejkAIsAO7JI/hqdefault.jpg" alt="Lab 05 Video" width="100%" style="max-width:400px;"/>
+      </a>
+      <p><b>Lab 05</b><br>小雞過馬路</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/shorts/_rdwBCLZNwI" target="_blank">
+        <img src="https://img.youtube.com/vi/_rdwBCLZNwI/hqdefault.jpg" alt="Final Project Video" width="100%" style="max-width:400px;"/>
+      </a>
+      <p><b>Final Project</b><br>植物大戰殭屍</p>
+    </td>
+  </tr>
+</table>
+
 ## 成績概況
 ||HW AVG|Final Project|Final Exam|期末考點名|實驗課點名|總成績|
 |---|---|---|---|---|---|---|
@@ -29,7 +47,6 @@
 ## 期末專題
 - 說明:設計一款「植物大戰殭屍」的遊戲，利用LED、七段顯示器、螢幕及按鈕做出一個守城遊戲。撿起陽光並召喚植物，打敗向家園襲來的殭屍群
 - 報告:[report_final_project](./report/FinalProject_108303013.pdf)
-- 影片:[YT影片_final_project](https://youtube.com/shorts/_rdwBCLZNwI)
 - 照片:
     - 確認地圖顏色(橘色為植物選擇區域、淺綠為殭屍行進區域、深綠為終點線及黃色為陽光生長區域)及可以選擇放置植物的位置(紅框)
         ![final_project_1](./img/final_project_1.jpg)
@@ -96,7 +113,6 @@
    - 說明:延續Lab04，設計一款「小雞過馬路」的遊戲，藉由按壓按鈕會改變小雞的位置，圖中的載具(「小車」、「貨車」、「大卡車」)會隨著時間朝著不同方向前進，玩家需要想辦法帶領小雞通過關卡抵達終點。透過七段顯示器呈現「累積步數」及「得分」，小雞在遇到若成功過關，LED會向流水燈呈現通關樣式
    - 程式:[code_lab05](./lab05/Lab4.srcs/sources_1/new/108303013_Lab5.v)
    - 報告:[report_lab05](./report/Lab5_108303013.pdf)
-   - 影片:[YT影片_lab05](https://youtube.com/shorts/ejkAIsAO7JI)
    - 圖片:
        - 測試階段
            ![測試_lab05](./img/lab05_1.jpg)
